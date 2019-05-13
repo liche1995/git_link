@@ -16,3 +16,4 @@ def just_test():
 def grease():
     print("niconico donga  898989898")
     print("www")
+    i = 1+1+1+1+1
