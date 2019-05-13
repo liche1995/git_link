@@ -6,4 +6,7 @@ print ("20190513")
 
 def load_cv_active():
     import cv2 as cv
-    return 
+    return
+
+def just_test():
+    print("just test")
