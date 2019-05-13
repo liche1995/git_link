@@ -14,5 +14,6 @@ def just_test():
     print("just test")
 
 def grease():
-    print("niconico donga")
+    print("niconico donga 85208520")
+    print("www")
     print("www")
