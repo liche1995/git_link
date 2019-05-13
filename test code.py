@@ -10,13 +10,5 @@ def load_cv_active():
     import cv2 as cv
     return
 
-123156456
-
 def just_test():
     print("just test")
-
-
-44544454
-45685245
-8520
-rjkdkdkekeke
