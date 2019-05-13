@@ -5,3 +5,7 @@ print("hi")
 print ("20190513")
 #今天天氣不錯
 #toady's weather is pretty good
+
+def load_cv_active():
+    import cv2 as cv
+    return
