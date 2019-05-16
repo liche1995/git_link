@@ -18,4 +18,4 @@ def grease():
     print("www")
     print("niconico donga  898989898")
     print("www")
-    i = 1+1+1+1+1
+    i = 1+1+1+1+1+2+3
