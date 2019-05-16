@@ -19,3 +19,6 @@ def grease():
     print("niconico donga  898989898")
     print("www")
     i = 1+1+1+1+1+2+3+5+8+8
+
+def dialog_with_fedora():
+    print("hi fedora")
