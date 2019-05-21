@@ -23,4 +23,4 @@ def grease():
 def dialog_with_fedora():
     print("hi fedora")
     print("hi windows")
-    print("20190521")
+    print("20190521___")
